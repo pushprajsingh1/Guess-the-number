@@ -1,2 +1,3 @@
-# College Website Layout
+# just a game for starting with python
+
 
