@@ -1,2 +1,2 @@
-# Guess the number
+# College Website Layout
 
